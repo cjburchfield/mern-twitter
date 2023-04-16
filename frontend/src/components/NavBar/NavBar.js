@@ -34,7 +34,7 @@ function NavBar () {
 
   return (
     <>
-      <h1>Chirps</h1>
+      <h1>Jamie's MERN Twitter</h1>
       { getLinks() }
     </>
   );
